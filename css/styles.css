@@ -1,0 +1,9 @@
+.intro {
+  color: gray;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div.intro h2 {
+  color: blue;
+}
